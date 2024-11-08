@@ -1,0 +1,177 @@
+/* Estilos generales */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Barra de navegación */
+nav {
+    background-color: #1e1b1b;
+    color: rgb(0, 0, 0);
+    padding: 10px 0;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: rgb(65, 59, 50);
+    text-decoration: none;
+    font-size: 18px;
+}
+
+/* Sección de Inicio */
+.inicio-section {
+    text-align: center;
+    padding: 150px 0;
+    background-image: url('https://i.ibb.co/HdHKTjL/IMG-0437.jpg');
+    background-size: cover;
+    background-position: center;
+    color: rgb(69, 64, 54);
+    height: 100vh;
+}
+
+.inicio-section h1 {
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+
+.inicio-section p {
+    font-size: 18px;
+}
+
+/* Sección de Nosotros */
+.nosotros-section {
+    text-align: center;
+    padding: 150px 0;
+    background-image: url('https://i.ibb.co/smdx8kR/3-sin-t-tulo-20241105174915.png');
+    background-size: 30%; /* La imagen ocupará solo el 30% del ancho de la sección */
+    background-position: center;
+    background-repeat: no-repeat; /* Evita que la imagen se repita */
+    color: rgb(75, 65, 53);
+    height: 100vh;
+}
+
+.nosotros-section h1 {
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+
+.nosotros-section p {
+    font-size: 18px;
+}
+
+/* Contenido adicional */
+.content {
+    padding: 40px;
+    text-align: center;
+}
+
+.content h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.content p {
+    font-size: 18px;
+}
+/* Sección de Acompañamiento */
+.acompanamiento-section {
+    text-align: center;
+    padding: 150px 0;
+    background-image: url('https://i.ibb.co/k4gYJG5/IMG-0442.jpg'); /* Imagen de fondo */
+    background-size: cover; /* La imagen cubre toda la sección */
+    background-position: center;
+    color: rgb(0, 0, 0);
+    height: 100vh;
+}
+
+.acompanamiento-section h1 {
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+
+.acompanamiento-section p {
+    font-size: 18px;
+}
+/* Fondo de toda la página */
+body {
+    background-color: #48453d; /* Fondo general de toda la página */
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Barra de navegación */
+nav {
+    background-color: #000000;
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+/* Sección de Inicio */
+.inicio-section {
+    background-color: #f4f4f4; /* Fondo de la sección de inicio */
+    text-align: center;
+    padding: 150px 0;
+    color: white;
+    height: 100vh;
+}
+
+/* Sección de Nosotros */
+.nosotros-section {
+    background-color: #48453d; /* Fondo de la sección de nosotros */
+    text-align: center;
+    padding: 150px 0;
+    color: white;
+    height: 100vh;
+}
+
+/* Sección de Acompañamiento */
+.acompanamiento-section {
+    background-color: #48453d; /* Fondo de la sección de acompañamientos */
+    text-align: center;
+    padding: 150px 0;
+    color: white;
+    height: 100vh;
+}
+
+.content {
+    padding: 40px;
+    text-align: center;
+}
+
+.content h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.content p {
+    font-size: 18px;
+}
